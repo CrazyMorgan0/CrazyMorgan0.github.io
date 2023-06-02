@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CrazyMorgan0.github.io/static/css/main.7dd65d2f.css",
+    "main.js": "/CrazyMorgan0.github.io/static/js/main.4263a6de.js",
+    "static/js/787.ddd594be.chunk.js": "/CrazyMorgan0.github.io/static/js/787.ddd594be.chunk.js",
+    "static/media/Photo of Me.jpg": "/CrazyMorgan0.github.io/static/media/Photo of Me.be6b4224fe2983d92de8.jpg",
+    "index.html": "/CrazyMorgan0.github.io/index.html",
+    "main.7dd65d2f.css.map": "/CrazyMorgan0.github.io/static/css/main.7dd65d2f.css.map",
+    "main.4263a6de.js.map": "/CrazyMorgan0.github.io/static/js/main.4263a6de.js.map",
+    "787.ddd594be.chunk.js.map": "/CrazyMorgan0.github.io/static/js/787.ddd594be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd65d2f.css",
+    "static/js/main.4263a6de.js"
+  ]
+}
