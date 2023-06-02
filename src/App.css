@@ -1,0 +1,56 @@
+.App {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+  'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: 'Trebuchet MS';
+  float: left;
+  margin: 1.5em;
+  border: 0.5em;
+  padding: 1em;
+  text-align: left;
+}
+
+html {
+  background-color: #0f0020;
+}
+
+body {
+  background-color: #f9edff;
+  color: #0f0020; 
+}
+
+header {
+  background-color: #f9edff;
+}
+
+div {
+  background-color: #f9edff;
+}
+
+span {
+  display: inline;
+  text-align: left;
+  font-size: large; 
+}
+
+footer {
+  float: left;
+  text-align: left;
+}
+
+img {
+  padding-right: 1em;
+  float: left;
+}
+
+input {
+  float: right;
+}
+
+textarea {
+  float: right;
+}
+
+.links {
+  float: right;
+  text-align: right;
+}
