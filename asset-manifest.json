@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.710e5157.css",
-    "main.js": "/static/js/main.77704039.js",
+    "main.js": "/static/js/main.2e95d666.js",
     "static/js/787.ddd594be.chunk.js": "/static/js/787.ddd594be.chunk.js",
     "static/media/Missing Persons Report 1.png": "/static/media/Missing Persons Report 1.7bce5295c0b8d50e1d4f.png",
     "static/media/Beat Hero 2.png": "/static/media/Beat Hero 2.dd3de25aac73e0033b79.png",
@@ -14,11 +14,11 @@
     "static/media/Unity.png": "/static/media/Unity.3d5b706df9c02ef6ca56.png",
     "index.html": "/index.html",
     "main.710e5157.css.map": "/static/css/main.710e5157.css.map",
-    "main.77704039.js.map": "/static/js/main.77704039.js.map",
+    "main.2e95d666.js.map": "/static/js/main.2e95d666.js.map",
     "787.ddd594be.chunk.js.map": "/static/js/787.ddd594be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.710e5157.css",
-    "static/js/main.77704039.js"
+    "static/js/main.2e95d666.js"
   ]
 }
