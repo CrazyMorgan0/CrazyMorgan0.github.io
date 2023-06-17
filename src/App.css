@@ -32,13 +32,21 @@ span {
   font-size: large; 
 }
 
+p {
+  float: left;
+  font-size: large; 
+}
+
+ul {
+  padding-left: 100em;
+}
+
 footer {
   float: left;
   text-align: left;
 }
 
 img {
-  padding-right: 1em;
   float: left;
 }
 
@@ -50,7 +58,10 @@ textarea {
   float: right;
 }
 
-.links {
-  float: right;
-  text-align: right;
+.carousel {
+  float: left;
+}
+
+.game_card {
+  display: inline;
 }
